@@ -1,1 +1,1 @@
-Oi
+int valor = 10
